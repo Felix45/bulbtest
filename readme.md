@@ -2,7 +2,7 @@
 
 > This is a bulb tester program, it determines whether a bulb should be subjected to a functional test, structural test or none. A bulb is subjected to a test based on the table below.
 
-| 👤 Random percentage | Test | Symbol |
+| Random percentage | Test | Symbol |
 |------|--------|-----|
 |15%|Structural test| S |
 |6%|Functional test| F |
