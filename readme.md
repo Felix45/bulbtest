@@ -24,6 +24,7 @@
 ### Setup
 
 ``` 
+  $ git clone git@github.com:Felix45/bulbtest.git
   $ cd bulbtest
 
 ```
@@ -31,6 +32,7 @@
 ### Usage
 To run the program please type the command below in the terminal
 ``` 
+  $ npm install
   $ node bulb.js
 ```
 
